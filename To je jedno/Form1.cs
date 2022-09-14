@@ -6,6 +6,7 @@ namespace To_je_jedno
         {
             InitializeComponent();
             int hlava = 0;
+            hlava = 5;
         }
 
         private void Form1_Load(object sender, EventArgs e)
